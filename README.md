@@ -9,6 +9,21 @@
 >>![image](https://github.com/0615liu/mini-project-5/assets/149355132/460a080d-5d17-4a31-a47e-f658b9293daa)
 >
 >而bandstop與bandpass頻譜互補為1
->![image](https://github.com/0615liu/mini-project-5/assets/149355132/8a7d7201-6a14-4a85-86c0-6bcee650c473)
+```js
+    float band_stop(int m, int n)  //time domain
+    {
+	    float wh = 2*PI*FH/FS;
+      float wl = 2*PI*FL/FS;
+      double delta=1;
+    	if(n==m) //when n come to 0
+      {
+		    return delta-1.0*(wh/PI - wl/PI);
+	    }
+	    else 
+      {
+		    return -1.0*(sinf(wh*((float)(n-m)))-sinf(wl*((float)(n-m))))/PI/((float)(n-m)) * hamming(2*m+1, n);
+      }
+   }
+```
 
 ##關於M的影響
