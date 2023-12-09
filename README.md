@@ -1,5 +1,5 @@
 # Mini Project - 5: Digital Filters
-##出發點
+*出發點
 >  第四次作業
 >>bandpass如何轉bandstop(右聲道)
 >>透過通訊原理正課所教的bandpass
@@ -26,4 +26,4 @@
    }
 ```
 
-##關於M的影響
+*關於M的影響
