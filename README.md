@@ -12,12 +12,11 @@
 ```js
     float band_stop(int m, int n)  //time domain
     {
-	    float wh = 2*PI*FH/FS;
+      float wh = 2*PI*FH/FS;
       float wl = 2*PI*FL/FS;
-      double delta=1;
-    	if(n==m) //when n come to 0
+      if(n==m) //when n come to 0
       {
-		    return delta-1.0*(wh/PI - wl/PI);
+		    return 1.0-1.0*(wh/PI - wl/PI);
 	    }
 	    else 
       {
