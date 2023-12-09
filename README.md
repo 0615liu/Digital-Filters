@@ -1,5 +1,5 @@
 # Mini Project - 5: Digital Filters
-
+##出發點
 >  第四次作業
 >>bandpass如何轉bandstop(右聲道)
 >>透過通訊原理正課所教的bandpass
@@ -10,3 +10,5 @@
 >
 >而bandstop與bandpass頻譜互補為1
 >![image](https://github.com/0615liu/mini-project-5/assets/149355132/8a7d7201-6a14-4a85-86c0-6bcee650c473)
+
+##關於M的影響
