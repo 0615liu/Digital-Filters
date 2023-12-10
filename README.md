@@ -10,12 +10,17 @@
 >> 
 ![image](https://github.com/0615liu/mini-project-5/assets/149355132/5c18e9bc-fd22-40a9-ab46-8c0900b8bd48)
 > 左聲道 M=1024 會有2*1024+1=2049點
->
-* 我們的response 有幾個點，取決M，2M+1也能看出response是對稱的
   
 ![image](https://github.com/0615liu/mini-project-5/assets/149355132/7176a51f-f175-4a81-a169-d80d2a4ed968)
 > 右聲道 M=8時 會有2*8+1=17點
 
+![image](https://github.com/0615liu/mini-project-5/assets/149355132/4a1fa8f0-4214-488c-9700-1479de55b078)
+> 右聲道 M=32 會有2*32+1=65點
+
+![image](https://github.com/0615liu/mini-project-5/assets/149355132/32e7a396-04e8-4f5e-8961-2bd15e453fa5)
+> 右聲道 M=1024 會有2*1024+1=2049點
+
+* 我們的response 有幾個點，取決M，2M+1也能看出response是對稱的
 
 
 > bandpass如何轉bandstop(右聲道)
