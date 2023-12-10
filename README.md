@@ -33,6 +33,8 @@
 > 右聲道頻譜 M=8
 ![image](https://github.com/0615liu/mini-project-5/assets/149355132/2a74390b-f104-41cd-bff7-f1b1896df68c)
 > 右聲道頻譜 M=32
+![image](https://github.com/0615liu/mini-project-5/assets/149355132/77431f31-24a8-4b27-8346-29ed06cdd247)
+> 右聲道頻譜 M=1024
 ### bandpass如何轉bandstop(右聲道)
 
 > 透過通訊原理正課所教的bandpass
