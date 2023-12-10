@@ -32,7 +32,7 @@
 > 左聲道頻譜 M=1024
 ![image](https://github.com/0615liu/mini-project-5/assets/149355132/671344d1-46dc-4649-b16d-136aa915b97d)
 > 右聲道頻譜 M=8
-![image](https://github.com/0615liu/mini-project-5/assets/149355132/2a74390b-f104-41cd-bff7-f1b1896df68c)
+![image](https://github.com/0615liu/mini-project-5/assets/149355132/74c90d99-7a92-4bfd-bc57-4312ba55e4f0)
 > 右聲道頻譜 M=32
 ![image](https://github.com/0615liu/mini-project-5/assets/149355132/77431f31-24a8-4b27-8346-29ed06cdd247)
 > 右聲道頻譜 M=1024
