@@ -12,9 +12,14 @@
 > 左聲道 M=1024 會有2*1024+1=2049點
 >
 * 我們的response 有幾個點，取決M，2M+1也能看出response是對稱的
+  
+![image](https://github.com/0615liu/mini-project-5/assets/149355132/7176a51f-f175-4a81-a169-d80d2a4ed968)
+> 右聲道 M=8時 會有2*8+1=17點
 
->>bandpass如何轉bandstop(右聲道)
->>透過通訊原理正課所教的bandpass
+
+
+> bandpass如何轉bandstop(右聲道)
+> 透過通訊原理正課所教的bandpass
 
 
 
