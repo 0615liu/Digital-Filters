@@ -23,7 +23,8 @@
 ### 我們的response 有幾個點，取決M，2M+1也能看出response是對稱的
 
 * 繪製的 log spectrum
-
+![image](https://github.com/0615liu/mini-project-5/assets/149355132/92c55e13-4041-403e-b0a5-34b36912ccfc)
+> 左聲道頻譜 M=8
 
 ### bandpass如何轉bandstop(右聲道)
 
