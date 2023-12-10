@@ -3,14 +3,15 @@
 ###### >  第四次作業
 * 繪製的 impulse responses
 ![image](https://github.com/0615liu/mini-project-5/assets/149355132/4637454f-c3a8-429b-9e83-2f0ae6dcf403)
->> 左聲道 M=8時 會有2*8+1=17
+>> 左聲道 M=8時 會有2*8+1=17點
 >> 
 ![image](https://github.com/0615liu/mini-project-5/assets/149355132/5e317ab3-5e73-4877-9208-26297a429651)
->> 左聲道 M=32 會有2*32+1=65
+>> 左聲道 M=32 會有2*32+1=65點
 >> 
 ![image](https://github.com/0615liu/mini-project-5/assets/149355132/5c18e9bc-fd22-40a9-ab46-8c0900b8bd48)
->> 左聲道 M=1024 會有2*1024+1=2049
->> 
+>> 左聲道 M=1024 會有2*1024+1=2049點
+>>
+* 我們的response 有幾個點，取決M，2M+1也能看出response是對稱的
 
 >>bandpass如何轉bandstop(右聲道)
 >>透過通訊原理正課所教的bandpass
