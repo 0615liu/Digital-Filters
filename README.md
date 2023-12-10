@@ -35,7 +35,8 @@
 > 右聲道頻譜 M=32
 ![image](https://github.com/0615liu/mini-project-5/assets/149355132/77431f31-24a8-4b27-8346-29ed06cdd247)
 > 右聲道頻譜 M=1024
-
+## 頻譜如何產生?
+> y<sub>L = h<sub>L*x<sub>L 
 ### M影響結果
 > 從audicity來看頻譜(bandpass和bandstop)，以M=8和1024比較
 * 關於M的影響
