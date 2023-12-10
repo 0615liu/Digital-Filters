@@ -3,23 +3,23 @@
 ###### >  第四次作業
 * 繪製的 impulse responses
 ![image](https://github.com/0615liu/mini-project-5/assets/149355132/4637454f-c3a8-429b-9e83-2f0ae6dcf403)
-> 左聲道 M=8時 會有2*8+1=17點
+> 左聲道 M=8時 會有2*8+1=17點 (txt會有17筆數)
 >> 
 ![image](https://github.com/0615liu/mini-project-5/assets/149355132/5e317ab3-5e73-4877-9208-26297a429651)
-> 左聲道 M=32 會有2*32+1=65點
+> 左聲道 M=32 會有2*32+1=65點 (txt會有65筆數)
 >> 這邊會發現像sinc函數，當sinc傅立葉時變方波
 > 
 ![image](https://github.com/0615liu/mini-project-5/assets/149355132/5c18e9bc-fd22-40a9-ab46-8c0900b8bd48)
-> 左聲道 M=1024 會有2*1024+1=2049點
+> 左聲道 M=1024 會有2*1024+1=2049點 (txt會有2049筆數)
   
 ![image](https://github.com/0615liu/mini-project-5/assets/149355132/7176a51f-f175-4a81-a169-d80d2a4ed968)
-> 右聲道 M=8時 會有2*8+1=17點
+> 右聲道 M=8時 會有2*8+1=17點 (txt會有17筆數)
 
 ![image](https://github.com/0615liu/mini-project-5/assets/149355132/4a1fa8f0-4214-488c-9700-1479de55b078)
-> 右聲道 M=32 會有2*32+1=65點
+> 右聲道 M=32 會有2*32+1=65點 (txt會有65筆數)
 
 ![image](https://github.com/0615liu/mini-project-5/assets/149355132/32e7a396-04e8-4f5e-8961-2bd15e453fa5)
-> 右聲道 M=1024 會有2*1024+1=2049點
+> 右聲道 M=1024 會有2*1024+1=2049點 (txt會有2049筆數)
 
 ### 我們的response 有幾個點，取決M，2M+1也能看出response是對稱的
 
@@ -38,7 +38,8 @@
 > 右聲道頻譜 M=1024
 ## 頻譜如何產生?
 > y<sub>L</sub>[n]= h<sub>L</sub> [n] * x<sub>L</sub>[n]  透過DFT變換得到頻域 (時域convolution，頻域相乘)
->> h<sub>L</sub>[n] 有2M+1個點
+>> h<sub>L</sub>[n] 有2M+1個點，代表會拿2M+1點去convolution，M越大越精確
+>> 
 ### M影響結果
 > 從audicity來看頻譜(bandpass和bandstop)，以M=8和1024比較
 * 關於M的影響
@@ -60,9 +61,6 @@
 ### bandpass如何轉bandstop(右聲道)
 
 > 透過通訊原理正課所教的bandpass
-
-
-
 
 >![image](https://github.com/0615liu/mini-project-5/assets/149355132/64c928cb-69cf-410c-bc77-540e71c911d8)
 >>![image](https://github.com/0615liu/mini-project-5/assets/149355132/976d2025-5f70-4b6d-9a0f-aa86bed027cd)
