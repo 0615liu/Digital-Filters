@@ -44,7 +44,10 @@
 >>![image](https://github.com/0615liu/mini-project-5/assets/149355132/4b78a284-493d-4c13-9446-07653dc0ae0e)   (圖三)
 >
 > 圖二為M=8，圖三為M=1024，然而圖二三中上半部為左聲道(bandpass)，下部分為右聲道(bandstop)
-> 
+#### 本次作業要求兩種濾波器在1500至3500赫茲會有邊界
+>> 代表bandpass在1500到3500赫茲，理想上有值
+>> 代表bandstop在1500到3500赫茲，理想上無值
+
 ### bandpass如何轉bandstop(右聲道)
 
 > 透過通訊原理正課所教的bandpass
@@ -77,15 +80,7 @@
    }
 ```
 
-* 關於M的影響
-> 當M越大，則會切割越乾淨，反之。所以當M為1024時，會比M為32的濾波效果更好 (audicity)
->>![image](https://github.com/0615liu/mini-project-5/assets/149355132/37a43ece-3e31-47b0-8dce-d709ea03783b)   (圖二)
->>![image](https://github.com/0615liu/mini-project-5/assets/149355132/4b78a284-493d-4c13-9446-07653dc0ae0e)   (圖三)
->
-> 圖二為M=8，圖三為M=1024，然而圖二三中上半部為左聲道(bandpass)，下部分為右聲道(bandstop)
-> 
-#### 本次作業要求兩種濾波器在1500至3500赫茲會有邊界
->> 代表bandpass在1500到3500赫茲，理想上有值
->> 代表bandstop在1500到3500赫茲，理想上無值
+
+
 
 
