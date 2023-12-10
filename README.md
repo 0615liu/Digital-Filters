@@ -29,9 +29,16 @@
 > 左聲道 M=32
 ![image](https://github.com/0615liu/mini-project-5/assets/149355132/01ae6d62-2287-428c-b4d0-da14ee156c6a)
 > 左聲道 M=1024
->
-> 
-> bandpass如何轉bandstop(右聲道)
+
+![image](https://github.com/0615liu/mini-project-5/assets/149355132/a47b8cb9-90fb-406b-9868-2d1f1824eeb5)
+> 右聲道 M=8
+![image](https://github.com/0615liu/mini-project-5/assets/149355132/035e2b7b-37db-42e2-834f-0c284d0eb424)
+> 右聲道 M=32
+![image](https://github.com/0615liu/mini-project-5/assets/149355132/00f818dd-2fd4-471e-8a55-a08d049a4f30)
+> 右聲道 M=1024
+
+### bandpass如何轉bandstop(右聲道)
+
 > 透過通訊原理正課所教的bandpass
 
 
