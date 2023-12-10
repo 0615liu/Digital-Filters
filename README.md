@@ -1,10 +1,17 @@
 # Mini Project - 5: Digital Filters
 ## 411086030 通訊三 劉家瑋
-* 出發點
->  第四次作業
+###### >  第四次作業
+* 繪製的 impulse responses
+![image](https://github.com/0615liu/mini-project-5/assets/149355132/4637454f-c3a8-429b-9e83-2f0ae6dcf403)
+>> 左聲道 M=8時 會有2*8+1=17
+
+
 >>bandpass如何轉bandstop(右聲道)
 >>透過通訊原理正課所教的bandpass
->>
+
+
+
+
 >![image](https://github.com/0615liu/mini-project-5/assets/149355132/64c928cb-69cf-410c-bc77-540e71c911d8)
 >>![image](https://github.com/0615liu/mini-project-5/assets/149355132/976d2025-5f70-4b6d-9a0f-aa86bed027cd)
 >>![image](https://github.com/0615liu/mini-project-5/assets/149355132/460a080d-5d17-4a31-a47e-f658b9293daa)
@@ -31,7 +38,7 @@
 ```
 
 * 關於M的影響
-> 當M越大，則會切割越乾淨，反之。所以當M為1024時，會比M為32的濾波效果更好
+> 當M越大，則會切割越乾淨，反之。所以當M為1024時，會比M為32的濾波效果更好 (audicity)
 >>![image](https://github.com/0615liu/mini-project-5/assets/149355132/37a43ece-3e31-47b0-8dce-d709ea03783b)   (圖二)
 >>![image](https://github.com/0615liu/mini-project-5/assets/149355132/4b78a284-493d-4c13-9446-07653dc0ae0e)   (圖三)
 >
