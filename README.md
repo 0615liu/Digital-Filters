@@ -20,8 +20,9 @@
 ![image](https://github.com/0615liu/mini-project-5/assets/149355132/32e7a396-04e8-4f5e-8961-2bd15e453fa5)
 > 右聲道 M=1024 會有2*1024+1=2049點
 
-* 我們的response 有幾個點，取決M，2M+1也能看出response是對稱的
+### 我們的response 有幾個點，取決M，2M+1也能看出response是對稱的
 
+* 繪製的 log spectrum
 
 > bandpass如何轉bandstop(右聲道)
 > 透過通訊原理正課所教的bandpass
