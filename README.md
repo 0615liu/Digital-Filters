@@ -28,3 +28,6 @@
 
 * 關於M的影響
 > 當M越大，則會切割越乾淨，反之。所以當M為1024時，會比M為32的濾波效果更好
+>>![image](https://github.com/0615liu/mini-project-5/assets/149355132/37a43ece-3e31-47b0-8dce-d709ea03783b)
+
+
