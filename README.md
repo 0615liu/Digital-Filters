@@ -30,6 +30,7 @@
 > 當M越大，則會切割越乾淨，反之。所以當M為1024時，會比M為32的濾波效果更好
 >>![image](https://github.com/0615liu/mini-project-5/assets/149355132/37a43ece-3e31-47b0-8dce-d709ea03783b)   (圖一)
 >>![image](https://github.com/0615liu/mini-project-5/assets/149355132/4b78a284-493d-4c13-9446-07653dc0ae0e)   (圖二)
+>
 >圖一為M=8，圖二為M=1024，然而圖一二中上半部為左聲道(bandpass)，下部分為右聲道(bandstop)
 
 
