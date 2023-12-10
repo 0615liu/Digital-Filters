@@ -7,7 +7,8 @@
 >> 
 ![image](https://github.com/0615liu/mini-project-5/assets/149355132/5e317ab3-5e73-4877-9208-26297a429651)
 > 左聲道 M=32 會有2*32+1=65點
->> 
+>> 這邊會發現像sinc函數，當sinc傅立葉時變方波
+> 
 ![image](https://github.com/0615liu/mini-project-5/assets/149355132/5c18e9bc-fd22-40a9-ab46-8c0900b8bd48)
 > 左聲道 M=1024 會有2*1024+1=2049點
   
