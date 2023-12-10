@@ -35,7 +35,7 @@
 >>![image](https://github.com/0615liu/mini-project-5/assets/149355132/37a43ece-3e31-47b0-8dce-d709ea03783b)   (圖二)
 >>![image](https://github.com/0615liu/mini-project-5/assets/149355132/4b78a284-493d-4c13-9446-07653dc0ae0e)   (圖三)
 >
->圖二為M=8，圖三為M=1024，然而圖二三中上半部為左聲道(bandpass)，下部分為右聲道(bandstop)
+> 圖二為M=8，圖三為M=1024，然而圖二三中上半部為左聲道(bandpass)，下部分為右聲道(bandstop)
 > 本次作業要求兩種濾波器在1500至3500赫茲會有邊界
 >> 代表bandpass在1500到3500赫茲，理想上有值
 
