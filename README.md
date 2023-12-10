@@ -15,7 +15,7 @@
 ![image](https://github.com/0615liu/mini-project-5/assets/149355132/7176a51f-f175-4a81-a169-d80d2a4ed968)
 > 右聲道 M=8時 會有2*8+1=17點 (txt會有17筆數)
 
-![image](https://github.com/0615liu/mini-project-5/assets/149355132/4a1fa8f0-4214-488c-9700-1479de55b078)
+![image](https://github.com/0615liu/mini-project-5/assets/149355132/9e846045-27df-41ae-a874-1a80eec43be0)
 > 右聲道 M=32 會有2*32+1=65點 (txt會有65筆數)
 
 ![image](https://github.com/0615liu/mini-project-5/assets/149355132/32e7a396-04e8-4f5e-8961-2bd15e453fa5)
