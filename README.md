@@ -49,6 +49,9 @@
 > 從audicity來看頻譜(bandpass和bandstop)，以M=8和1024比較
 * 關於M的影響
 > 當M越大，則會切割越乾淨，反之。所以當M為1024時，會比M為32的濾波效果更好 (audicity)
+> ![image](https://github.com/0615liu/mini-project-5/assets/149355132/6397efc3-6957-41b9-ab45-91b688fbcfdf)
+>>此圖為原始blue_giant_fragment.wav
+>
 >>![image](https://github.com/0615liu/mini-project-5/assets/149355132/37a43ece-3e31-47b0-8dce-d709ea03783b)   
 >>![image](https://github.com/0615liu/mini-project-5/assets/149355132/4b78a284-493d-4c13-9446-07653dc0ae0e)   
 >
