@@ -28,14 +28,14 @@
 > (圖七)左聲道頻譜 M=8
 ![image](https://github.com/0615liu/mini-project-5/assets/149355132/3b0cb116-c168-4352-b0f7-28d78f47cb40) (圖八)
 > (圖八)左聲道頻譜 M=32
-![image](https://github.com/0615liu/mini-project-5/assets/149355132/1febd5b3-5f8f-4c45-a29d-97941603d441)
-> 左聲道頻譜 M=1024
-![image](https://github.com/0615liu/mini-project-5/assets/149355132/671344d1-46dc-4649-b16d-136aa915b97d)
-> 右聲道頻譜 M=8
-![image](https://github.com/0615liu/mini-project-5/assets/149355132/74c90d99-7a92-4bfd-bc57-4312ba55e4f0)
-> 右聲道頻譜 M=32
-![image](https://github.com/0615liu/mini-project-5/assets/149355132/77431f31-24a8-4b27-8346-29ed06cdd247)
-> 右聲道頻譜 M=1024
+![image](https://github.com/0615liu/mini-project-5/assets/149355132/1febd5b3-5f8f-4c45-a29d-97941603d441) (圖九)
+> (圖九)左聲道頻譜 M=1024
+![image](https://github.com/0615liu/mini-project-5/assets/149355132/671344d1-46dc-4649-b16d-136aa915b97d) (圖十)
+> (圖十)右聲道頻譜 M=8
+![image](https://github.com/0615liu/mini-project-5/assets/149355132/74c90d99-7a92-4bfd-bc57-4312ba55e4f0) (圖十一)
+> (圖十一)右聲道頻譜 M=32
+![image](https://github.com/0615liu/mini-project-5/assets/149355132/77431f31-24a8-4b27-8346-29ed06cdd247) (圖十二)
+> (圖十二)右聲道頻譜 M=1024
 ## 頻譜如何產生?
 > y<sub>L</sub>[n]= h<sub>L</sub> [n] * x<sub>L</sub>[n]  透過DFT變換得到頻域 (時域convolution，頻域相乘)
 >> h<sub>L</sub>[n] 有2M+1個點，代表會拿2M+1點去convolution，M越大越精確
