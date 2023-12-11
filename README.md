@@ -2,8 +2,8 @@
 ## 411086030 通訊三 劉家瑋
 ###### >  第四次作業
 * 繪製的 impulse responses
-![image](https://github.com/0615liu/mini-project-5/assets/149355132/4637454f-c3a8-429b-9e83-2f0ae6dcf403)
-> 左聲道 M=8時 會有2*8+1=17點 (txt會有17筆數)
+![image](https://github.com/0615liu/mini-project-5/assets/149355132/4637454f-c3a8-429b-9e83-2f0ae6dcf403) (圖一)
+> 圖一左聲道 M=8時 會有2*8+1=17點 (txt會有17筆數)  
 >> 
 ![image](https://github.com/0615liu/mini-project-5/assets/149355132/5e317ab3-5e73-4877-9208-26297a429651)
 > 左聲道 M=32 會有2*32+1=65點 (txt會有65筆數)
@@ -70,9 +70,9 @@
 >>![image](https://github.com/0615liu/mini-project-5/assets/149355132/460a080d-5d17-4a31-a47e-f658b9293daa)
 >
 >而bandstop與bandpass頻譜互補為1
->>![image](https://github.com/0615liu/mini-project-5/assets/149355132/79c34af7-b16a-4b3d-93a8-b4c163c62212) (圖一)
+>>![image](https://github.com/0615liu/mini-project-5/assets/149355132/79c34af7-b16a-4b3d-93a8-b4c163c62212) 
 >
->> 圖一為bandstop
+>> 為bandstop
 
 ```js
     float band_stop(int m, int n)  //time domain
