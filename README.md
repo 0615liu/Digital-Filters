@@ -82,19 +82,19 @@
 > (圖十四)為bandstop
 
 ```js
-    float band_stop(int m, int n)  //time domain
+   float BANDSTOP(int m, int n) // bandstop and bandpass in freq domain sigma will be 1
+   {
+    float wh = 2 * PI * FH / FS;
+    float wl = 2 * PI * FL / FS; 
+    if (n == m) // n=0
     {
-      float wh = 2*PI*FH/FS;
-      float wl = 2*PI*FL/FS;
-      if(n==m) //when n come to 0
-      {
-		    return 1.0-1.0*(wh/PI - wl/PI);
-	    }
-	    else 
-      {
-		    return -1.0*(sinf(wh*((float)(n-m)))-sinf(wl*((float)(n-m))))/PI/((float)(n-m)) * hamming(2*m+1, n);
-      }
-   }
+        return 1.0- (wh / PI - wl / PI); // inverse fourier transform if 1 is delta
+    }
+    else // n unequal to 0
+    {
+        return -(sinf(wh * ((float)(n - m))) - sinf(wl * ((float)(n - m)))) / PI / ((float)(n - m)) * hamming(2 * m + 1, n);
+    }
+  }
 ```
 
 # 程式補充
