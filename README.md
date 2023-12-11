@@ -60,8 +60,10 @@
 ### 從時域觀察
 ![image](https://github.com/0615liu/mini-project-5/assets/149355132/8811beb2-0da0-47f2-9466-dafa26fc35ae)
 > M=8 時域圖
+> 
 ![image](https://github.com/0615liu/mini-project-5/assets/149355132/b337edbc-3214-4ef5-90c9-d488801760f1)
 > M=32 時域圖
+> 
 ![image](https://github.com/0615liu/mini-project-5/assets/149355132/5dcdb424-39f1-4a4b-b9ed-f1761dbe1899)
  > M=1024 時域圖
 #### 本次作業要求兩種濾波器在1500至3500赫茲會有邊界
