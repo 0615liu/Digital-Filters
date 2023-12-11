@@ -75,7 +75,7 @@
 ### 將頻譜和時域放一起來看
 ![image](https://github.com/0615liu/mini-project-5/assets/149355132/b88a0516-1a97-4a09-a399-d7dc3cb4240a)
 > blue_giant_fagment
-
+>> 當時域訊號抖動很快振幅很大，此時頻率也較高
 #### 本次作業要求兩種濾波器在1500至3500赫茲會有邊界
 >> 代表bandpass在1500到3500赫茲，理想上有值
 >> 代表bandstop在1500到3500赫茲，理想上無值
