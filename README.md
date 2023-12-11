@@ -58,7 +58,7 @@
 > 上圖為M=8，下圖M=1024，然而兩張圖上半部為左聲道(bandpass)，下部分為右聲道(bandstop)
 >
 ### 從時域觀察
-![image](https://github.com/0615liu/mini-project-5/assets/149355132/cc7eef3b-1d73-4107-b471-0e28ef9f4773)
+![image](https://github.com/0615liu/mini-project-5/assets/149355132/92b1af8b-633c-462f-800c-6350ae4429e6)
 > blue_giant_fagment 時域圖
 >
 ![image](https://github.com/0615liu/mini-project-5/assets/149355132/8811beb2-0da0-47f2-9466-dafa26fc35ae)
