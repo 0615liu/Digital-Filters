@@ -4,19 +4,19 @@
 * 繪製的 impulse responses
 ![image](https://github.com/0615liu/mini-project-5/assets/149355132/4637454f-c3a8-429b-9e83-2f0ae6dcf403) (圖一)
 > 圖一左聲道 M=8時 會有2*8+1=17點 (txt會有17筆數)  
->> 
-![image](https://github.com/0615liu/mini-project-5/assets/149355132/5e317ab3-5e73-4877-9208-26297a429651) (圖二)
-> 圖二左聲道 M=32 會有2*32+1=65點 (txt會有65筆數)
->> 這邊會發現像sinc函數，當sinc傅立葉時變方波
-> 
-![image](https://github.com/0615liu/mini-project-5/assets/149355132/5c18e9bc-fd22-40a9-ab46-8c0900b8bd48) (圖三)
-> 圖三左聲道 M=1024 會有2*1024+1=2049點 (txt會有2049筆數)
-  
-![image](https://github.com/0615liu/mini-project-5/assets/149355132/7176a51f-f175-4a81-a169-d80d2a4ed968) (圖四)
-> 圖四右聲道 M=8時 會有2*8+1=17點 (txt會有17筆數)
 
-![image](https://github.com/0615liu/mini-project-5/assets/149355132/ee1af71f-d4cd-40d1-a7c4-750136398b69) (圖五)
-> 圖五右聲道 M=32 會有2*32+1=65點 (txt會有65筆數)
+![image](https://github.com/0615liu/mini-project-5/assets/149355132/7176a51f-f175-4a81-a169-d80d2a4ed968) (圖二)
+> 圖二右聲道 M=8時 會有2*8+1=17點 (txt會有17筆數)
+
+![image](https://github.com/0615liu/mini-project-5/assets/149355132/5e317ab3-5e73-4877-9208-26297a429651) (圖三)
+> 圖三左聲道 M=32 會有2*32+1=65點 (txt會有65筆數)
+>> 這邊會發現像sinc函數，當sinc傅立葉時變方波
+
+![image](https://github.com/0615liu/mini-project-5/assets/149355132/ee1af71f-d4cd-40d1-a7c4-750136398b69) (圖四)
+> 圖四右聲道 M=32 會有2*32+1=65點 (txt會有65筆數)
+
+![image](https://github.com/0615liu/mini-project-5/assets/149355132/5c18e9bc-fd22-40a9-ab46-8c0900b8bd48) (圖五)
+> 圖五左聲道 M=1024 會有2*1024+1=2049點 (txt會有2049筆數)
 
 ![image](https://github.com/0615liu/mini-project-5/assets/149355132/32e7a396-04e8-4f5e-8961-2bd15e453fa5) (圖六)
 > (圖六)右聲道 M=1024 會有2*1024+1=2049點 (txt會有2049筆數)
