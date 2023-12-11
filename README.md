@@ -115,7 +115,8 @@
 ```
 
 # 程式補充
-> 利用 spectrogram 觀察訊號的頻率成份,所以可以用上一次程式的DFT
+* 利用 spectrogram 觀察訊號的頻率成份,所以可以用上一次程式的DFT
+* dB(分貝)就是兩個數字的比例取20log 或是 10log，講amplitude時取20(本次作業)，Power時取10
 
 
 
