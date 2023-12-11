@@ -45,7 +45,7 @@
 > y<sub>L</sub>[n]= h<sub>L</sub> [n] * x<sub>L</sub>[n]  透過DFT變換得到頻域 (時域convolution，頻域相乘)
 >> h<sub>L</sub>[n] 有2M+1個點，代表會拿2M+1點去convolution，M越大越精確
 >> 
-### M影響結果
+### M影響結果 (從頻譜觀察)
 > 從audicity來看頻譜(bandpass和bandstop)，以M=8和1024比較
 * 關於M的影響
 > 當M越大，則會切割越乾淨，反之。所以當M為1024時，會比M為32的濾波效果更好 (audicity)
@@ -56,6 +56,14 @@
 >>![image](https://github.com/0615liu/mini-project-5/assets/149355132/4b78a284-493d-4c13-9446-07653dc0ae0e)   
 >
 > 上圖為M=8，下圖M=1024，然而兩張圖上半部為左聲道(bandpass)，下部分為右聲道(bandstop)
+>
+### 從時域觀察
+![image](https://github.com/0615liu/mini-project-5/assets/149355132/8811beb2-0da0-47f2-9466-dafa26fc35ae)
+> M=8 時域圖
+![image](https://github.com/0615liu/mini-project-5/assets/149355132/b337edbc-3214-4ef5-90c9-d488801760f1)
+> M=32 時域圖
+![image](https://github.com/0615liu/mini-project-5/assets/149355132/5dcdb424-39f1-4a4b-b9ed-f1761dbe1899)
+ > M=1024 時域圖
 #### 本次作業要求兩種濾波器在1500至3500赫茲會有邊界
 >> 代表bandpass在1500到3500赫茲，理想上有值
 >> 代表bandstop在1500到3500赫茲，理想上無值
