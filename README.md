@@ -77,7 +77,8 @@
 > (圖十三)
 >
 >而bandstop與bandpass頻譜互補為1
->>![image](https://github.com/0615liu/mini-project-5/assets/149355132/79c34af7-b16a-4b3d-93a8-b4c163c62212) 
+>>![image](https://github.com/0615liu/mini-project-5/assets/149355132/79c34af7-b16a-4b3d-93a8-b4c163c62212)
+>>
 > (圖十四)為bandstop
 
 ```js
