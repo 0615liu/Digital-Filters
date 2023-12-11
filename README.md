@@ -5,29 +5,29 @@
 ![image](https://github.com/0615liu/mini-project-5/assets/149355132/4637454f-c3a8-429b-9e83-2f0ae6dcf403) (圖一)
 > 圖一左聲道 M=8時 會有2*8+1=17點 (txt會有17筆數)  
 >> 
-![image](https://github.com/0615liu/mini-project-5/assets/149355132/5e317ab3-5e73-4877-9208-26297a429651)
-> 左聲道 M=32 會有2*32+1=65點 (txt會有65筆數)
+![image](https://github.com/0615liu/mini-project-5/assets/149355132/5e317ab3-5e73-4877-9208-26297a429651) (圖二)
+> 圖二左聲道 M=32 會有2*32+1=65點 (txt會有65筆數)
 >> 這邊會發現像sinc函數，當sinc傅立葉時變方波
 > 
-![image](https://github.com/0615liu/mini-project-5/assets/149355132/5c18e9bc-fd22-40a9-ab46-8c0900b8bd48)
-> 左聲道 M=1024 會有2*1024+1=2049點 (txt會有2049筆數)
+![image](https://github.com/0615liu/mini-project-5/assets/149355132/5c18e9bc-fd22-40a9-ab46-8c0900b8bd48) (圖三)
+> 圖三左聲道 M=1024 會有2*1024+1=2049點 (txt會有2049筆數)
   
-![image](https://github.com/0615liu/mini-project-5/assets/149355132/7176a51f-f175-4a81-a169-d80d2a4ed968)
-> 右聲道 M=8時 會有2*8+1=17點 (txt會有17筆數)
+![image](https://github.com/0615liu/mini-project-5/assets/149355132/7176a51f-f175-4a81-a169-d80d2a4ed968) (圖四)
+> 圖四右聲道 M=8時 會有2*8+1=17點 (txt會有17筆數)
 
-![image](https://github.com/0615liu/mini-project-5/assets/149355132/ee1af71f-d4cd-40d1-a7c4-750136398b69)
-> 右聲道 M=32 會有2*32+1=65點 (txt會有65筆數)
+![image](https://github.com/0615liu/mini-project-5/assets/149355132/ee1af71f-d4cd-40d1-a7c4-750136398b69) (圖五)
+> 圖五右聲道 M=32 會有2*32+1=65點 (txt會有65筆數)
 
-![image](https://github.com/0615liu/mini-project-5/assets/149355132/32e7a396-04e8-4f5e-8961-2bd15e453fa5)
-> 右聲道 M=1024 會有2*1024+1=2049點 (txt會有2049筆數)
+![image](https://github.com/0615liu/mini-project-5/assets/149355132/32e7a396-04e8-4f5e-8961-2bd15e453fa5) (圖六)
+> (圖六)右聲道 M=1024 會有2*1024+1=2049點 (txt會有2049筆數)
 
 ### 我們的response 有幾個點，取決M，2M+1也能看出response是對稱的
 
 * 繪製的 log spectrum
-![image](https://github.com/0615liu/mini-project-5/assets/149355132/92c55e13-4041-403e-b0a5-34b36912ccfc)
-> 左聲道頻譜 M=8
-![image](https://github.com/0615liu/mini-project-5/assets/149355132/3b0cb116-c168-4352-b0f7-28d78f47cb40)
-> 左聲道頻譜 M=32
+![image](https://github.com/0615liu/mini-project-5/assets/149355132/92c55e13-4041-403e-b0a5-34b36912ccfc) (圖七)
+> (圖七)左聲道頻譜 M=8
+![image](https://github.com/0615liu/mini-project-5/assets/149355132/3b0cb116-c168-4352-b0f7-28d78f47cb40) (圖八)
+> (圖八)左聲道頻譜 M=32
 ![image](https://github.com/0615liu/mini-project-5/assets/149355132/1febd5b3-5f8f-4c45-a29d-97941603d441)
 > 左聲道頻譜 M=1024
 ![image](https://github.com/0615liu/mini-project-5/assets/149355132/671344d1-46dc-4649-b16d-136aa915b97d)
