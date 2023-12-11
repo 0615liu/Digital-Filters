@@ -73,12 +73,12 @@
 >![image](https://github.com/0615liu/mini-project-5/assets/149355132/64c928cb-69cf-410c-bc77-540e71c911d8)
 >>![image](https://github.com/0615liu/mini-project-5/assets/149355132/976d2025-5f70-4b6d-9a0f-aa86bed027cd)
 >>![image](https://github.com/0615liu/mini-project-5/assets/149355132/460a080d-5d17-4a31-a47e-f658b9293daa)
+>>
 > (圖十三)
 >
 >而bandstop與bandpass頻譜互補為1
 >>![image](https://github.com/0615liu/mini-project-5/assets/149355132/79c34af7-b16a-4b3d-93a8-b4c163c62212) 
-> (圖十四)
->> 為bandstop
+> (圖十四)為bandstop
 
 ```js
     float band_stop(int m, int n)  //time domain
