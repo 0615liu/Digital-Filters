@@ -50,7 +50,7 @@
 * 關於M的影響
 > 當M越大，則會切割越乾淨，反之。所以當M為1024時，會比M為32的濾波效果更好 (audicity)
 > ![image](https://github.com/0615liu/mini-project-5/assets/149355132/6397efc3-6957-41b9-ab45-91b688fbcfdf)
->>此圖為原始blue_giant_fragment.wav
+>>此圖為原始blue_giant_fragment.wav 下方會透過濾波器，看出M越大 效果越佳
 >
 >>![image](https://github.com/0615liu/mini-project-5/assets/149355132/37a43ece-3e31-47b0-8dce-d709ea03783b)   
 >>![image](https://github.com/0615liu/mini-project-5/assets/149355132/4b78a284-493d-4c13-9446-07653dc0ae0e)   
@@ -75,12 +75,12 @@
 >>![image](https://github.com/0615liu/mini-project-5/assets/149355132/976d2025-5f70-4b6d-9a0f-aa86bed027cd)
 >>![image](https://github.com/0615liu/mini-project-5/assets/149355132/460a080d-5d17-4a31-a47e-f658b9293daa)
 >>
-> (圖十三)
+> 
 >
 >而bandstop與bandpass頻譜互補為1
 >>![image](https://github.com/0615liu/mini-project-5/assets/149355132/79c34af7-b16a-4b3d-93a8-b4c163c62212)
 >>
-> (圖十四)為bandstop
+> 為bandstop
 
 ```js
    float BANDSTOP(int m, int n) // bandstop and bandpass in freq domain sigma will be 1
