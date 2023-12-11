@@ -1,5 +1,5 @@
 # Mini Project - 5: Digital Filters
-## 411086030 通訊三 劉家瑋
+## 411086030 劉家瑋
 ###### >  第四次作業
 * 繪製的 impulse responses
 ![image](https://github.com/0615liu/mini-project-5/assets/149355132/4637454f-c3a8-429b-9e83-2f0ae6dcf403) (圖一)
